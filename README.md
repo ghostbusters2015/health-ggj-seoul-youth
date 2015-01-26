@@ -1,7 +1,9 @@
 # health-ggj-seoul-youth
 글로벌 게임잼 2015 서울 청소년
 
-DEMO : http://arcade.gamesalad.com/games/127957
+DEMO : 
+v1.0 : http://arcade.gamesalad.com/games/127957
+v2.0 : http://arcade.gamesalad.com/games/127961
 
 http://globalgamejam.org/2015/jam-sites/ggj-seoul-youth
 ![글로벌 게임잼 2015 서울 청소년](http://41.media.tumblr.com/11bd1a8c89f3f0f75608d00d2e1e558a/tumblr_niogyahxkv1smuakjo1_500.png)
